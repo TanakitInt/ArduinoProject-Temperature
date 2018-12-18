@@ -5,6 +5,7 @@ Messure a temperature at the moment
 x1 Breadboard  
 x1 Arduino Mega (China Model)  
 x1 USB-B Cable  
+A lot of WIRE (how to connect without them?)
 
 x1 Thermistor  
 x1 10K Ohm Resistor   
